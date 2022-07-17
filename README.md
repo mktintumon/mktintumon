@@ -51,10 +51,12 @@
   <a>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
   <a>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -71,7 +73,7 @@
     <img src="https://img.shields.io/badge/Automation-F47521?style=for-the-badge&logo=crunchyroll&logoColor=black" />
   </a>&nbsp;&nbsp;
   <a>
-    <img src="https://img.shields.io/badge/webscraping-8A4182?style=for-the-badge&logo=Jasmine&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/web_scraping-8A4182?style=for-the-badge&logo=Jasmine&logoColor=yellow" />
   </a>&nbsp;&nbsp;
 </p>
 
