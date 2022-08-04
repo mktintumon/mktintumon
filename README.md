@@ -28,7 +28,7 @@
 <p align='center'>
   <b>LANGUAGES and TOOLS🎯🏆<br/><br/>
   <a>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
   </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
