@@ -66,6 +66,12 @@
   <a>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black" />
+  </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+  </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
   </a>&nbsp;&nbsp;
