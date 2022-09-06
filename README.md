@@ -17,8 +17,8 @@
   <a href="https://twitter.com/mohit_kumar__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://leetcode.com/mktintumon/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+   <a href="https://www.instagram.com/breakdown_geek/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
@@ -87,12 +87,15 @@
 <hr>  
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktintumon&layout=compact"    width="450</a>
-  
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mktintumon" width="450">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktintumon&layout=compact" width="450">
+  </a>&nbsp;&nbsp
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mktintumon" width="450"></a>
 </p>
-<br>
 
+<p align='center'>
+<a href="#"><img src="https://leetcard.jacoblin.cool/mktintumon?theme=light&font=Commissioner"></a>
+</p>
+<hr>
 
 <p align='center'>
   💻 <b>My workspace</b><br/><br/>
