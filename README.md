@@ -87,13 +87,13 @@
 <hr>  
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktintumon&layout=compact" width="450">
-  </a>&nbsp;&nbsp
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mktintumon" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktintumon&layout=compact" width="365">
+  </a>&nbsp
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mktintumon" width="365"></a>
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://leetcard.jacoblin.cool/mktintumon?theme=light&font=Commissioner"></a>
+<a href="#"><img src="https://leetcard.jacoblin.cool/mktintumon?theme=light&font=Commissioner" width="400"></a>
 </p>
 <hr>
 
