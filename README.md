@@ -39,9 +39,6 @@
   <a>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>&nbsp;&nbsp;
-  <a>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>&nbsp;&nbsp;
    <a>
     <img src="https://img.shields.io/badge/JS_DOM-0175C2?style=for-the-badge&logo=javascript&logoColor=yellow" />
   </a>&nbsp;&nbsp;
@@ -55,7 +52,7 @@
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>&nbsp;&nbsp;
   <a>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -69,11 +66,14 @@
     <a>
     <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black" />
   </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/MySQL-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>&nbsp;&nbsp;
      <a>
-    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+    <img src="https://img.shields.io/badge/REST-Api-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
   </a>&nbsp;&nbsp;
   <a>
-    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Automation-F47521?style=for-the-badge&logo=crunchyroll&logoColor=black" />
