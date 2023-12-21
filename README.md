@@ -95,9 +95,9 @@
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mktintumon" width="365"></a>
 </p>
 
-<p align='center'>
+<!--<p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mktintumon&layout=compact" width="400">
-</p>
+</p>-->
 <hr>
 
 <p align='center'>
