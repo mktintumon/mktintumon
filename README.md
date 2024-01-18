@@ -90,6 +90,9 @@
   <a>
     <img src="https://img.shields.io/badge/web_scraping-8A4182?style=for-the-badge&logo=Jasmine&logoColor=yellow" />
   </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <br>
