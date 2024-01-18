@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
   </a>&nbsp;&nbsp;
     <a>
-    <img src="https://img.shields.io/badge/SpringBoot-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green" />
   </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -57,6 +57,9 @@
   <a>
     <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -70,10 +73,13 @@
     <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black" />
   </a>&nbsp;&nbsp;
     <a>
-    <img src="https://img.shields.io/badge/MySQL-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>&nbsp;&nbsp;
      <a>
-    <img src="https://img.shields.io/badge/REST_API-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a>
     <img src="https://img.shields.io/badge/GIT-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
