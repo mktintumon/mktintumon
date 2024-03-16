@@ -82,7 +82,19 @@
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a>
-    <img src="https://img.shields.io/badge/GIT-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  </a>&nbsp;&nbsp;
+     <a>
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a>
     <img src="https://img.shields.io/badge/Automation-F47521?style=for-the-badge&logo=crunchyroll&logoColor=black" />
